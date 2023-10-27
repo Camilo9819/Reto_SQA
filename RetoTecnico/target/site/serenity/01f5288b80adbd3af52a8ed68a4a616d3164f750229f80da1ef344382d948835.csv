@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Verificar que se pueda agregar dos productos de la categoria amor","Agregar productos de la categoria amor","SUCCESS","2023-10-27T14:54:52.0208507-05:00[America/Bogota]","0.0","54.1"
+"Verificar que se pueda agregar dos productos de la categoria amor","Agregar productos de la categoria amor","SUCCESS","2023-10-27T15:38:36.543397-05:00[America/Bogota]","0.0","56.44"
+"Verificar que se pueda agregar y eliminar un producto de la categoria cumpleaños","Agregar y eliminar un producto de la categoria cumpleaños","SUCCESS","2023-10-27T15:23:33.6579549-05:00[America/Bogota]","0.0","24.74"

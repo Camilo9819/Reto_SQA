@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.prueba.runners.Runners" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-27T19:54:51" hostname="LAPTOP-TBO3VDFO" time="54.455">
+<testsuite name="com.prueba.runners.Runners" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-27T20:38:36" hostname="LAPTOP-TBO3VDFO" time="56.78">
   <properties/>
-  <testcase name="Agregar productos de la categoria amor" classname="com.prueba.runners.Runners" time="54.455"/>
+  <testcase name="Agregar productos de la categoria amor" classname="com.prueba.runners.Runners" time="56.78"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216}) on port 18017
+  <system-err><![CDATA[Starting ChromeDriver 118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216}) on port 21411
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-oct. 27, 2023 2:54:55 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+oct. 27, 2023 3:38:40 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 ADVERTENCIA: Unable to find CDP implementation matching 118
-oct. 27, 2023 2:54:55 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+oct. 27, 2023 3:38:40 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 ADVERTENCIA: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.7.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
 ?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
